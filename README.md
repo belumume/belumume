@@ -1,7 +1,7 @@
 # Hello, Universe! I'm Ubaidullah Shuaib
 
-- 🧠 **What I build:** AI tools and learning platforms — from a [DeepLearning.AI course pathway generator](https://belumume.github.io/dlai-roadmap/) to a [collection of Claude skills](https://github.com/belumume/claude-skills) with 40+ stars
-- 🎨 **What I care about:** Making AI accessible through education, clean code, and building in public
+- 🧠 **What I build:** AI-powered tools, web apps, and learning platforms
+- 🎨 **What I care about:** Clean code, AI innovation, and continuous learning
 - 🧩 **Tech I'm using:** Python, JavaScript, TypeScript, React, C
 - 🚀 **Fun fact:** Currently working through CS50x, five Scrimba learning paths, and DeepLearning.AI courses simultaneously
 
@@ -17,7 +17,7 @@
 
 ### Connect with me
 
-[LinkedIn](https://linkedin.com/in/ubaidullahshuaib) • [My Scrimba Profile](https://scrimba.com/u014s7l?via=u014s7l) • [Learn HTML & CSS (my first cert!)](https://scrimba.com/learn-html-and-css-c0p?via=u014s7l) • [The Frontend Path](https://scrimba.com/frontend-path-c0j?via=u014s7l) • [Portfolio](https://ubaidullahshuaib.com)
+[LinkedIn](https://linkedin.com/in/ubaidullahshuaib) • [Learn HTML & CSS (my first cert!)](https://scrimba.com/learn-html-and-css-c0p?via=u014s7l) • [The Frontend Path](https://scrimba.com/frontend-path-c0j?via=u014s7l) • [Portfolio](https://ubaidullahshuaib.com)
 
 [![Boost your career with Scrimba — Get 20% Discount](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com?via=u014s7l)
 
@@ -46,6 +46,6 @@
 
 ### 💬 Let's Connect!
 
-Feel free to reach out if you want to collaborate on AI tools, talk about learning in public, or just chat about code!
+Feel free to reach out if you want to collaborate on a project, talk about AI and web development, or just chat about code!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=belumume&color=blueviolet)
