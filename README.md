@@ -1,9 +1,9 @@
-# Hello, Universe! I'm Ubaidullah Shuaib
+# Hello, Universe! I'm Ubaid
 
-- 🧠 **What I build:** AI-powered tools, web apps, and learning platforms
-- 🎨 **What I care about:** Clean code, AI innovation, and continuous learning
+- 🧠 **What I build:** AI-powered tools and web apps
+- 🎨 **What I care about:** AI innovation and continuous learning
 - 🧩 **Tech I'm using:** Python, JavaScript, TypeScript, React, C
-- 🚀 **Fun fact:** Currently working through CS50x, five Scrimba learning paths, and DeepLearning.AI courses simultaneously
+- 🚀 **Fun fact:** I beta test courses at DeepLearning.AI
 
 ### 🛠️ My Toolkit
 
@@ -15,11 +15,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Connect with me
-
-[LinkedIn](https://linkedin.com/in/ubaidullahshuaib) • [Learn HTML & CSS (my first cert!)](https://scrimba.com/learn-html-and-css-c0p?via=u014s7l) • [The Frontend Path](https://scrimba.com/frontend-path-c0j?via=u014s7l) • [Portfolio](https://ubaidullahshuaib.com)
+[LinkedIn](https://linkedin.com/in/ubaidullahshuaib) • [Portfolio](https://ubaidullahshuaib.com)
 
 [![Boost your career with Scrimba — Get 20% Discount](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com?via=u014s7l)
+
+[Frontend](https://scrimba.com/frontend-path-c0j?via=u014s7l) • [Backend](https://scrimba.com/the-backend-developer-path-c0tbi0l98f?via=u014s7l) • [Fullstack](https://scrimba.com/fullstack-path-c0fullstack?via=u014s7l) • [AI Engineer](https://scrimba.com/the-ai-engineer-path-c02v?via=u014s7l)
 
 ---
 
@@ -35,17 +35,5 @@
 |---|---|
 | <br>**[claude-skills](https://github.com/belumume/claude-skills)** <img src="https://img.icons8.com/?size=120&id=4564MUHGIIbe&format=png" alt="Icon" width="18" /><br><br>Personal collection of Claude skills — growing as I discover patterns and solve real-world problems. 40+ stars from the community.<br><br><sub>Python • Claude • Anthropic</sub><br><br> | <br>**[dlai-roadmap](https://github.com/belumume/dlai-roadmap)** <img src="https://img.icons8.com/?size=96&id=kI89qXDv4f5O&format=png" alt="Icon" width="18" /><br><br>Personalized Learning Pathway Generator for DeepLearning.AI Courses. [Try it live →](https://belumume.github.io/dlai-roadmap/)<br><br><sub>React • Vite • DeepLearning.AI</sub><br><br> |
 | | |
-
-## Scrimba Courses I've Completed
-
-[![Certificate](https://img.shields.io/badge/Learn%20HTML%20%26%20CSS-E34F26)](https://scrimba.com/learn-html-and-css-c0p?via=u014s7l)
-
-*Currently working through:* Frontend Path, Backend Developer Path, Fullstack Path, AI Engineer Path, Data Structures & Algorithms
-
----
-
-### 💬 Let's Connect!
-
-Feel free to reach out if you want to collaborate on a project, talk about AI and web development, or just chat about code!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=belumume&color=blueviolet)
