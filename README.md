@@ -2,7 +2,7 @@
 
 - 🧠 **What I build:** AI-powered tools and web apps
 - 🎨 **What I care about:** AI innovation and continuous learning
-- 🧩 **Tech I'm using:** Python, JavaScript, TypeScript, React, C
+- 🧩 **Tech I'm using:** Claude Code
 - 🚀 **Fun fact:** I beta test courses at DeepLearning.AI
 
 ### 🛠️ My Toolkit
