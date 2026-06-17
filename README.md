@@ -1,5 +1,9 @@
 # Hello, Universe! I'm Ubaid
 
+<!--STARS_START-->
+![Total Stars](https://img.shields.io/badge/total_stars-65-yellow?style=for-the-badge&logo=github)
+<!--STARS_END-->
+
 - 🧠 **What I build:** AI-powered tools and web apps
 - 🎨 **What I care about:** AI innovation and continuous learning
 - 🧩 **Tech I'm using:** Claude Code

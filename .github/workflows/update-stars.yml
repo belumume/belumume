@@ -1,0 +1,67 @@
+name: Update Total Stars
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Count stars and update README
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            
+            const seen = new Set();
+            let totalStars = 0;
+            
+            // Owned repos (personal + org repos)
+            const ownedRepos = await github.paginate(github.rest.repos.listForAuthenticatedUser, {
+              affiliation: 'owner,organization_member',
+              per_page: 100,
+            });
+            
+            for (const repo of ownedRepos) {
+              if (repo.private) continue;
+              seen.add(repo.full_name);
+              totalStars += repo.stargazers_count;
+              if (repo.stargazers_count > 0) {
+                console.log(`${repo.full_name}: ${repo.stargazers_count}`);
+              }
+            }
+            
+            // Contributed repos (collaborator/member)
+            const memberRepos = await github.paginate(github.rest.repos.listForAuthenticatedUser, {
+              type: 'member',
+              per_page: 100,
+            });
+            
+            for (const repo of memberRepos) {
+              if (repo.private || seen.has(repo.full_name)) continue;
+              seen.add(repo.full_name);
+              totalStars += repo.stargazers_count;
+              if (repo.stargazers_count > 0) {
+                console.log(`${repo.full_name}: ${repo.stargazers_count}`);
+              }
+            }
+            
+            console.log(`total across ${seen.size} repos: ${totalStars}`);
+            
+            let readme = fs.readFileSync('README.md', 'utf8');
+            readme = readme.replace(
+              /<!--STARS_START-->[\s\S]*?<!--STARS_END-->/,
+              `<!--STARS_START-->\n![Total Stars](https://img.shields.io/badge/total__stars-${totalStars}-yellow?style=for-the-badge&logo=github)\n<!--STARS_END-->`
+            );
+            fs.writeFileSync('README.md', readme);
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet || (git add README.md && git commit -m "update total stars count" && git push)
