@@ -16,7 +16,7 @@ I build AI-powered tools, and I care most about the ones real people use.
 
 CS. 
 
-I daily-drive with Claude Code, beta-test courses at DeepLearning.AI, and spend my time on agentic systems and AI safety.
+I daily-drive with Claude Code, beta-test courses at DeepLearning.AI, and spend time on agentic systems and AI safety.
 
 ---
 
