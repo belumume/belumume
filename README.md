@@ -14,7 +14,7 @@ I build AI-powered tools, and I care most about the ones real people use.
 
 ### About
 
-CS student, PharmD background, founder of Quantelect. I build with Claude Code daily, beta-test courses at DeepLearning.AI, and spend my time on agentic systems, evals, and AI safety.
+CS. I daily-drive with Claude Code, beta-test courses at DeepLearning.AI, and spend my time on agentic systems and AI safety.
 
 ---
 
