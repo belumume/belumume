@@ -1,4 +1,4 @@
-# Hello, Universe! I'm Ubaid
+## Ubaid
 
 <!--STARS_START-->
 ![Total Stars](https://img.shields.io/badge/total_stars-65-yellow?style=for-the-badge&logo=github)
