@@ -1,14 +1,12 @@
 ## Ubaid
 
-<!--STARS_START-->
-![Total Stars](https://img.shields.io/badge/total_stars-65-yellow?style=for-the-badge&logo=github)
-<!--STARS_END-->
-
 I build AI-powered tools, and I care most about the ones real people use.
 
 ---
 
 ### 📊 GitHub Stats
+
+![Total Stars](https://img.shields.io/badge/total_stars-65-yellow?style=for-the-badge&logo=github)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=belumume&theme=dark)](https://git.io/streak-stats)
 
