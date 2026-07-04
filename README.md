@@ -4,7 +4,7 @@ I build AI-powered tools, and I care most about the ones real people use.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Total Stars](https://img.shields.io/badge/total_stars-65-yellow?style=for-the-badge&logo=github)
 
