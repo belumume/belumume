@@ -4,27 +4,17 @@
 ![Total Stars](https://img.shields.io/badge/total_stars-65-yellow?style=for-the-badge&logo=github)
 <!--STARS_END-->
 
-- 🧠 **What I build:** AI-powered tools and web apps
-- 🎨 **What I care about:** AI innovation and continuous learning
-- 🧩 **Tech I'm using:** Claude Code
-- 🚀 **Fun fact:** I beta test courses at DeepLearning.AI
-
-
-[LinkedIn](https://linkedin.com/in/ubaidullahshuaib) • [Portfolio](https://ubaidullahshuaib.com)
-
-[![Boost your career with Scrimba — Get 20% Discount](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com?via=u014s7l)
-
-[Frontend](https://scrimba.com/frontend-path-c0j?via=u014s7l) • [Backend](https://scrimba.com/the-backend-developer-path-c0tbi0l98f?via=u014s7l) • [Fullstack](https://scrimba.com/fullstack-path-c0fullstack?via=u014s7l) • [AI Engineer](https://scrimba.com/the-ai-engineer-path-c02v?via=u014s7l)
+I build AI-powered tools, and I care most about the ones real people use.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=belumume&theme=dark)](https://git.io/streak-stats)
 
 ---
 
-## Projects
+### Projects
 
 | | |
 |---|---|
