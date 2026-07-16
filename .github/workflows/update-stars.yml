@@ -23,8 +23,13 @@ jobs:
             // The default GITHUB_TOKEN is an app installation token with no
             // "authenticated user" behind it, so /user/* endpoints fail with
             // "Resource not accessible by integration". listForUser works with
-            // it and returns the owner's public repos, which is everything this
-            // badge counts (org-member and collaborator repos hold zero stars).
+            // it and returns the owner's public repos.
+            //
+            // Deliberately narrower than the old listForAuthenticatedUser query:
+            // org-member and collaborator repos are not counted. They held zero
+            // stars as of 2026-07, so the total is unchanged. If starred org or
+            // collaborator repos appear later, counting them again requires a
+            // PAT-backed query (the installation token cannot enumerate them).
             const repos = await github.paginate(github.rest.repos.listForUser, {
               username: context.repo.owner,
               type: 'owner',
