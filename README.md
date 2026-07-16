@@ -22,7 +22,9 @@ I daily-drive with Claude Code, beta-test courses at DeepLearning.AI, and spend 
 
 ### GitHub Stats
 
-![Total Stars](https://img.shields.io/badge/total_stars-65-yellow?style=for-the-badge&logo=github)
+<!--STARS_START-->
+![Total Stars](https://img.shields.io/badge/total_stars-69-yellow?style=for-the-badge&logo=github)
+<!--STARS_END-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=belumume&theme=dark)](https://git.io/streak-stats)
 
